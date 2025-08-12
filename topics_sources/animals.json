@@ -1,0 +1,20 @@
+[
+  {
+    "link": "https://en.wikipedia.org/wiki/Wolf",
+    "name": "Wolf",
+    "importance": 5,
+    "comment": ""
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Hamster",
+    "name": "Hamster",
+    "importance": 5,
+    "comment": ""
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Elephantidae",
+    "name": "Elephant",
+    "importance": 5,
+    "comment": ""
+  }
+]
